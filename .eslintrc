@@ -1,0 +1,10 @@
+{
+  "extends": ["react-app", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error", { "endOfLine": "auto" }],
+    "react/react-in-jsx-scope": [0],
+    "quotes": [2, "single"],
+    "jsx-quotes": [2, "prefer-single"]
+  }
+}
