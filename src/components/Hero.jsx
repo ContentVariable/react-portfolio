@@ -5,7 +5,7 @@ import HeroLogo from '../assets/NameLogo-V2.png';
 const Hero = () => {
   return (
     <div className='text-[#0c120c]' id='intro'>
-      <div className='max-w-[800px] sm:mt-5 mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
+      <div className='max-w-[800px] w-full h-screen mx-auto text-center flex flex-col justify-center'>
         <p className='text-[4rem] font-bold p-2'>Hey, I'm</p>
         <img className='w-[1240px] my-4 mx-auto' src={HeroLogo} alt='Aaron Ford-Wright logo' />
         <div className='flex justify-center items-center'>

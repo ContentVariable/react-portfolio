@@ -20,7 +20,7 @@ const Footer = () => {
                 target='_blank'
                 rel='noreferrer'>
                 <FaGithub className='group-hover:text-white duration-500' size={40} />
-                <h3 className='group-hover:text-white duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
+                <h3 className='group-hover:text-white hidden sm:block duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
                   GitHub
                 </h3>
               </a>
@@ -32,7 +32,7 @@ const Footer = () => {
                 target='_blank'
                 rel='noreferrer'>
                 <FaInstagram className='group-hover:text-white duration-500' size={40} />
-                <h3 className='group-hover:text-white duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
+                <h3 className='group-hover:text-white hidden sm:block  duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
                   Instagram
                 </h3>
               </a>
@@ -44,7 +44,7 @@ const Footer = () => {
                 target='_blank'
                 rel='noreferrer'>
                 <FaLinkedinIn className='group-hover:text-white duration-500' size={40} />
-                <h3 className='group-hover:text-white duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
+                <h3 className='group-hover:text-white hidden sm:block  duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
                   LinkedIn
                 </h3>
               </a>
@@ -56,7 +56,7 @@ const Footer = () => {
                 target='_blank'
                 rel='noreferrer'>
                 <FaEnvelope className='group-hover:text-white duration-500' size={40} />
-                <h3 className='group-hover:text-white duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
+                <h3 className='group-hover:text-white hidden sm:block  duration-500 md:text-2xl text-xl lg:ml-2 my-auto'>
                   Send an Email
                 </h3>
               </a>
