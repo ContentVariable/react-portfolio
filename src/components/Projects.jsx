@@ -1,10 +1,10 @@
 import React from 'react';
-import Project1 from '../assets/Dice-Game.png';
-import Project2 from '../assets/Guess-My-Number.png';
-import Project3 from '../assets/Working-Modals.png';
-import Project4 from '../assets/Technical-Doc.png';
-import Project5 from '../assets/Product-Landing.png';
-import Project6 from '../assets/Survey-Form.png';
+import Project1 from './assets/Dice-Game.png';
+import Project2 from './assets/Guess-My-Number.png';
+import Project3 from './assets/Working-Modals.png';
+import Project4 from './assets/Technical-Doc.png';
+import Project5 from './assets/Product-Landing.png';
+import Project6 from './assets/Survey-Form.png';
 
 const Projects = () => {
   return (
