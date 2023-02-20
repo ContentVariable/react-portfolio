@@ -1,6 +1,6 @@
 import React from 'react';
 import Typed from 'react-typed';
-import HeroLogo from './assets/NameLogo-V2.png';
+import HeroLogo from 'https://www.aaronfordwright.com/assets/NameLogo-V2.png';
 
 const Hero = () => {
   return (
