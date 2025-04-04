@@ -1,5 +1,5 @@
 import React from 'react';
-import Bio from '../assets/P1803226.jpg';
+import Bio from './assets/P1803226.jpg';
 
 const About = () => {
   return (
