@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 import Logo from '../assets/Header-LogoV2.png';
-import Resume from '../assets/Resume-2023-V1.pdf';
+import Resume from '../assets/Resume-2025-V1.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(true);
