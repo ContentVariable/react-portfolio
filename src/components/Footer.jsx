@@ -65,7 +65,7 @@ const Footer = () => {
         </div>
         <div className='my-2 py-4'>
           <p className='text-eggshell text-center'>
-            Copyright &copy; 2023 Aaron Ford-Wright - All Rights Reserved.
+            Copyright &copy; 2025 Aaron Ford-Wright - All Rights Reserved.
           </p>
         </div>
       </div>
