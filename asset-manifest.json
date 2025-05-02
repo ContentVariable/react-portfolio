@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.789b9df7.css",
-    "main.js": "/static/js/main.ff12fdc8.js",
+    "main.js": "/static/js/main.26c574a1.js",
     "static/media/P1803226.jpg": "/static/media/P1803226.f85e3c865e87130b6d29.jpg",
-    "static/media/Product-Landing.png": "/static/media/Product-Landing.a39a2514393845ec3f8c.png",
-    "static/media/Technical-Doc.png": "/static/media/Technical-Doc.44e3899721e421c2cc1e.png",
+    "static/media/filmfav-preview2.png": "/static/media/filmfav-preview2.1a795c9c9cc0f75b0a2f.png",
+    "static/media/forkify-preview2.png": "/static/media/forkify-preview2.ff5d4063c7ed3cf536c7.png",
+    "static/media/technical-doc2.png": "/static/media/technical-doc2.103f5a0aafdf6e3a88e2.png",
     "static/media/Dice-Game.png": "/static/media/Dice-Game.bead5f8a0f98fc75ede5.png",
     "static/media/Resume-2025-V1.pdf": "/static/media/Resume-2025-V1.29a086344dda28fa1f36.pdf",
-    "static/media/Survey-Form.png": "/static/media/Survey-Form.52c2ba614cc4e1d93a37.png",
     "static/media/Working-Modals.png": "/static/media/Working-Modals.93105ec0667ced255a6e.png",
     "static/media/NameLogo-V2.png": "/static/media/NameLogo-V2.e7217009d9d378f5873d.png",
     "static/media/Guess-My-Number.png": "/static/media/Guess-My-Number.9e695ebee2caef470f00.png",
     "index.html": "/index.html",
     "main.789b9df7.css.map": "/static/css/main.789b9df7.css.map",
-    "main.ff12fdc8.js.map": "/static/js/main.ff12fdc8.js.map"
+    "main.26c574a1.js.map": "/static/js/main.26c574a1.js.map"
   },
   "entrypoints": [
     "static/css/main.789b9df7.css",
-    "static/js/main.ff12fdc8.js"
+    "static/js/main.26c574a1.js"
   ]
 }
