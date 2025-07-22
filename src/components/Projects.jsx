@@ -33,7 +33,7 @@ const Projects = () => {
           </div>
           <a
             className='bg-crimson hover:bg-shade duration-500  w-[200px] text-center rounded-md font-medium my-6 mx-auto px-6 py-3 text-white'
-            href='https://codepen.io/contentvariable/full/wvqdrGR'
+            href='https://ovensource.netlify.app/'
             target='_blank'
             rel='noreferrer'>
             View Project
