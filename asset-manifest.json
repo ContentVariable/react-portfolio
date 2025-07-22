@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.789b9df7.css",
-    "main.js": "/static/js/main.efa48b22.js",
+    "main.js": "/static/js/main.950c3824.js",
     "static/media/P1803226.jpg": "/static/media/P1803226.f85e3c865e87130b6d29.jpg",
     "static/media/ovensource-pizza-preview2.PNG": "/static/media/ovensource-pizza-preview2.3678abb67162ea3cc075.PNG",
     "static/media/filmfav-preview2.png": "/static/media/filmfav-preview2.1a795c9c9cc0f75b0a2f.png",
@@ -13,10 +13,10 @@
     "static/media/Guess-My-Number.png": "/static/media/Guess-My-Number.9e695ebee2caef470f00.png",
     "index.html": "/index.html",
     "main.789b9df7.css.map": "/static/css/main.789b9df7.css.map",
-    "main.efa48b22.js.map": "/static/js/main.efa48b22.js.map"
+    "main.950c3824.js.map": "/static/js/main.950c3824.js.map"
   },
   "entrypoints": [
     "static/css/main.789b9df7.css",
-    "static/js/main.efa48b22.js"
+    "static/js/main.950c3824.js"
   ]
 }
