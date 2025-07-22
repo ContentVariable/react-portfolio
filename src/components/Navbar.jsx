@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 import Logo from '../assets/Header-LogoV2.png';
-import Resume from '../assets/Resume-2025-V1.pdf';
+import Resume from '../assets/AaronFW-Resume-2025.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(true);
@@ -16,7 +16,7 @@ const Navbar = () => {
         <a href='#intro' target='_self'>
           <img className='w-[60px] my-4' src={Logo} alt='A logo' />
         </a>
-        <ul className='hidden md:flex text-xl'>
+        <ul className='hidden text-xl md:flex'>
           <li className='p-4'>
             <a className='hover:underline' href='#project-sec' target='_self'>
               Projects
@@ -48,7 +48,7 @@ const Navbar = () => {
               : 'fixed left-[-100%]'
           }>
           <img className='w-[80px] my-4 ml-4' src={Logo} alt='A logo' />
-          <ul className='uppercase p-4'>
+          <ul className='p-4 uppercase'>
             <li className='p-4 border-b border-gray-600'>
               <a onClick={handleNav} href='#project-sec' target='_self'>
                 Projects
