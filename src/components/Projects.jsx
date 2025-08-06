@@ -1,6 +1,6 @@
 import React from 'react';
 import Project1 from '../assets/Dice-Game.png';
-import Project2 from '../assets/Guess-My-Number.png';
+import Project2 from '../assets/evergreen-cabns-preview.png';
 import Project3 from '../assets/ovensource-pizza-preview2.PNG';
 import Project4 from '../assets/technical-doc2.png';
 import Project5 from '../assets/filmfav-preview2.png';
@@ -18,8 +18,32 @@ const Projects = () => {
         <div className='w-full bg-[#faf9f6] shadow-xl flex flex-col p-0 md:my-0 my-8 rounded-lg duration-300 hover:scale-105'>
           <img
             className='w-full mx-auto rounded-t-lg'
+            src={Project2}
+            alt='Evergreen Cabins homepage with cabin in background'
+          />
+          <h2 className='py-8 text-3xl font-bold text-center'>Evergreen Cabins</h2>
+          <div className='font-medium text-center'>
+            <p className='py-2 mx-8 mt-2 text-xl border-b'>
+              <span className='font-bold'>Stack:</span> NextJS, TypeScript, AuthJS
+            </p>
+            <p className='py-2 mx-8 text-xl border-b'>
+              <span className='font-bold'>Description:</span> A demo website built with a Supabase
+              backend, using Tailwind CSS for styling, Motion for animation, and AuthJS for log-ins.
+            </p>
+          </div>
+          <a
+            className='bg-crimson hover:bg-shade duration-500  w-[200px] text-center rounded-md font-medium my-6 mx-auto px-6 py-3 text-white'
+            href='https://evergreen-cabins-website-demo.vercel.app/'
+            target='_blank'
+            rel='noreferrer'>
+            View Project
+          </a>
+        </div>
+        <div className='flex flex-col w-full p-0 my-4 duration-300 bg-white rounded-lg shadow-xl hover:scale-105'>
+          <img
+            className='w-full mx-auto rounded-t-lg'
             src={Project3}
-            alt='modal over green background'
+            alt='OvenSource Pizzeria homepage'
           />
           <h2 className='py-8 text-3xl font-bold text-center'>OvenSource Pizzeria</h2>
           <div className='font-medium text-center'>
@@ -40,7 +64,11 @@ const Projects = () => {
           </a>
         </div>
         <div className='flex flex-col w-full p-0 my-4 duration-300 bg-white rounded-lg shadow-xl hover:scale-105'>
-          <img className='w-full mx-auto rounded-t-lg' src={Project5} alt='Dice Game main screen' />
+          <img
+            className='w-full mx-auto rounded-t-lg'
+            src={Project5}
+            alt='FilmFav split homescreen'
+          />
           <h2 className='py-8 text-3xl font-bold text-center'>FilmFav</h2>
           <div className='font-medium text-center'>
             <p className='py-2 mx-8 mt-2 text-xl border-b'>
@@ -63,7 +91,7 @@ const Projects = () => {
           <img
             className='w-full mx-auto rounded-t-lg'
             src={Project6}
-            alt='health focused web survey'
+            alt='Forkify main page with side menu'
           />
           <h2 className='py-8 text-3xl font-bold text-center'>Forkify</h2>
           <div className='font-medium text-center'>
@@ -123,30 +151,6 @@ const Projects = () => {
           <a
             className='bg-crimson hover:bg-shade duration-500 w-[200px] text-center rounded-md font-medium my-6 mx-auto px-6 py-3 text-white'
             href='https://github.com/ContentVariable/Udemy-Coursework/tree/main/Pig-Game'
-            target='_blank'
-            rel='noreferrer'>
-            View Project
-          </a>
-        </div>
-        <div className='flex flex-col w-full p-0 my-4 duration-300 bg-white rounded-lg shadow-xl hover:scale-105'>
-          <img
-            className='w-full mx-auto rounded-t-lg'
-            src={Project2}
-            alt='Guess My Number! main screen'
-          />
-          <h2 className='py-8 text-3xl font-bold text-center'>Guess My Number!</h2>
-          <div className='font-medium text-center'>
-            <p className='py-2 mx-8 mt-2 text-xl border-b'>
-              <span className='font-bold'>Stack:</span> JavaScript
-            </p>
-            <p className='py-2 mx-8 text-xl border-b'>
-              <span className='font-bold'>Description:</span> Number guessing game that requires
-              player to guess the correct randomized number.
-            </p>
-          </div>
-          <a
-            className='bg-crimson hover:bg-shade duration-500  w-[200px] text-center rounded-md font-medium my-6 mx-auto px-6 py-3 text-white'
-            href='https://codepen.io/contentvariable/full/ZEJKXGY'
             target='_blank'
             rel='noreferrer'>
             View Project
